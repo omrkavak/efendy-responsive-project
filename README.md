@@ -5,4 +5,4 @@ Merhaba. Front End alanında yaptığım bir projeyi sizlerle paylaşmak isterim
 
 Efendy Alternatif Web sitesi, dünyaca ünlü Şef Somer Sivrioğlu'nun [Efendy](https://efendyistanbul.com/) Restaurantının web sitesini projemde yer verdim.
 
-Herhangi bir sorun ve öneride bulunmak isterseniz omerkvak0@gmail.com mail hesabıma yazabilirsiniz.
+Herhangi bir sorun ve öneride bulunmak isterseniz omrkavak0@gmail.com mail hesabıma yazabilirsiniz.
